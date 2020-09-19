@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigma-bit&layout=compact" alt="nigma-bit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nigma-bit&show_icons=true" alt="nigma-bit" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nigma-bit&show_icons=true" alt="nigma-bit" /></p>
 
 <p align="center">
 <a href="https://twitter.com/nigma_bit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nigma_bit" height="30" width="30" /></a>
